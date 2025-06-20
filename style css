@@ -1,0 +1,17 @@
+p {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+}
+
+
+h2 {
+    font-family:"Lobster" sans-serif;
+    font-size: 2.5em;
+}
+
+h1 {
+    font-family: "Lobster", cursive;
+    font-size: 5em;
+    text-align: center;
+    color:rgb(from color r g b)
+}
